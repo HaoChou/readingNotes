@@ -1,2 +1,11 @@
 design patterns 
 (singleton, factory, adapter, bridge, visitor, command, proxy, observer, etc.) 
+
+
+map-reduce
+soa（service oriented architectures）
+distributed caching, 
+load balancing, 
+
+
+温习一下internet浏览器的工作原理、DNS查找、TCP/IP和HTTP是什么、套接字等等
